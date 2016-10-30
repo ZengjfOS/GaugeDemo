@@ -1,0 +1,58 @@
+	[
+		{
+			id:"ck",
+			name:"仓库",
+			path:"M1 2L2 177L206 176L204 2L1 2Z",
+			textX:85,
+			textY:85
+		},
+		{
+			id:"rjb",
+			name:"软件部",
+			path:"M204 2L206 176L436 176L437 2L204 2Z",
+			textX:290,
+			textY:85
+		},
+		{
+			id:"yjb",
+			name:"硬件部",
+			path:"M437 2L799 2L799 95L437 98L437 2Z",
+			textX:600,
+			textY:50
+		},
+		{
+			id:"bgs",
+			name:"办公室",
+			path:"M437 217L799 214L799 95L437 98L437 217Z",
+			textX:600,
+			textY:155
+		},
+		{
+			id:"wxb",
+			name:"维修部",
+			path:"M437 217L799 214L799 95L437 98L437 217ZM105 441M1 310L437 310L437 177L2 178L1 310Z",
+			textX:175,
+			textY:249
+		},
+		{
+			id:"zjlbgs",
+			name:"总经理办公室",
+			path:"M545 310L544 217L437 218L436 310L545 310Z",
+			textX:455,
+			textY:265
+		},
+		{
+			id:"cws",
+			name:"财务室",
+			path:"M651 310L651 216L544 217L545 310L651 310Z",
+			textX:580,
+			textY:265
+		},
+		{
+			id:"hys",
+			name:"会议室",
+			path:"M799 310L798 215L651 216L651 310C651 310 800 310 799 310Z",
+			textX:700,
+			textY:265
+		}
+	]

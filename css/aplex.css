@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	font-family: Arial;
+}
+
+#g1,#g2,#g3,#g4,#g5,#g6{
+	width: 400px;
+	height: 320px;
+	display: inline-block;
+	margin: 1em;
+	border: 1px soild #202020;
+	box-shadow: 0px 0px 15px #101010;
+	margin-top: 120px;
+	border-radius: 8px;
+}
+
+
+p {
+	display: block;
+	width: 400px;
+	margin: 2em auto;
+	text-align: center;
+	border-top: 1px soild #CCC;
+	border-bottom: 1px soild #CCC;
+	background: #333333;
+	padding: 10px 0px;
+	color: #CCC;
+	text-shadow: 1px 1px 25px #000000;
+	border-radius: 0px 0px 5px 5px;
+	box-shadow: 0px 0px 10px #202020;
+}

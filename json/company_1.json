@@ -1,0 +1,66 @@
+[
+	{
+		"id":"ck",
+		"name":"仓库",
+		"path":"M3 5L3 327L271 327L271 5L3 5Z",
+		"textX":120,
+		"textY":165,
+		"door":[{"doorOpen":"M271 327L221 208","doorClose":"M271 327L271 190"}]
+	},
+	{
+		"id":"rjb",
+		"name":"软件部",
+		"path":"M567 5L567 327L271 327L271 5L567 5Z",
+		"textX":390,
+		"textY":166,
+		"door":[{"doorOpen":"M522 223L567 326","doorClose":"M567 207L567 327"}]
+	},
+	{
+		"id":"yjb",
+		"name":"硬件部",
+		"path":"M1129 5L567 5L567 145L1129 145L1129 5Z",
+		"textX":803,
+		"textY":72,
+		"door":[{"doorOpen":"M807 145L865 117","doorClose":"M878 145L878 145"},{"doorOpen":"M920 116L985 145","doorClose":"M984 145L807 145"}]
+	},
+	{
+		"id":"bgs",
+		"name":"办公室",
+		"path":"M1129 523L1129 145L567 145L567 523L1129 523Z",
+		"textX":800,
+		"textY":320,
+		"door":[]
+	},
+	{
+		"id":"wxb",
+		"name":"维修部",
+		"path":"M567 673L3 673L3 327L567 327L567 673Z",
+		"textX":226,
+		"textY":508,
+		"door":[{"doorOpen":"M567 327L527 436","doorClose":"M567 327L567 444"}]
+	},
+	{
+		"id":"zjlbgs",
+		"name":"总经理办公室",
+		"path":"M744 673L567 673L567 523L744 523L744 673Z",
+		"textX":595,
+		"textY":600,
+		"door":[{"doorOpen":"M744 523L678 547","doorClose":"M744 523L677 523"}]
+	},
+	{
+		"id":"cws",
+		"name":"财务室",
+		"path":"M909 673L744 673L744 523L909 523L909 673Z",
+		"textX":799,
+		"textY":600,
+		"door":[{"doorOpen":"M744 523L810 547","doorClose":"M811 523L744 523"}]
+	},
+	{
+		"id":"hys",
+		"name":"会议室",
+		"path":"M1129 673L909 673L909 523L1129 523L1129 673Z",
+		"textX":992,
+		"textY":600,
+		"door":[{"doorOpen":"M909 523L980 549","doorClose":"M909 523L989 523"}]
+	}
+]
